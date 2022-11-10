@@ -1,0 +1,15 @@
+{
+  "name": "To-Do list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "init.js",
+  "author": "Valera Hridil",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron-packager ."
+  },
+  "dependencies": {
+    "electron": "^21.2.2",
+    "electron-packager": "^17.1.1"
+  }
+}
